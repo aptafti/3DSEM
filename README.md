@@ -14,18 +14,31 @@ The state-of-the-art of 3D SEM surface reconstruction is fully explained in the 
 <strong>[1]</strong> Tafti, A.P., Kirkpatrick, A.B., Alavi, Z., Owen, H.A. and Yu, Z., 2015. [Recent advances in 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432815300226) Micron, 78, pp.54-66.
 
 <strong>[2]</strong> Kremer, A., Lippens, S., Bartunkova, S., Asselbergh, B., Blanpain, C., Fendrych, M., Goossens, A., Holt, M., Janssens, S., Krols, M. and LARSIMONT, J.C., 2015. [Developing 3D SEM in a broad biological context](http://onlinelibrary.wiley.com/doi/10.1111/jmi.12211/full) Journal of microscopy, 259(2), pp.80-96.
-
-
+</p>
 
 ## Techniques and Algorithms
+<p align="justify"> 
 There is a considerable amount of research activities that tried to design and develop 3D SEM surface reconstruction algorithms. Examples include:
 
-<strong>[1]</strong> Tafti, A.P., Kirkpatrick, A.B., Alavi, Z., Owen, H.A. and Yu, Z., 2015. [Recent advances in 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432815300226) Micron, 78, pp.54-66.
+<strong>[1]</strong> Tafti, A.P., Kirkpatrick, A.B., Alavi, Z., Owen, H.A. and Yu, Z., 2015. [Recent advances in 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432815300226). Micron, 78, pp.54-66.
 
-<strong>[2]</strong> Tafti, A.P., 2016. [3D SEM Surface Reconstruction: An Optimized, Adaptive, and Intelligent Approach](http://dc.uwm.edu/etd/1186/) (Doctoral dissertation, The University of Wisconsin-Milwaukee).
+<strong>[2]</strong> Eulitz, M. and Reiss, G., 2015. [3D reconstruction of SEM images by use of optical photogrammetry software](http://www.sciencedirect.com/science/article/pii/S1047847715300149). Journal of structural biology, 191(2), pp.190-196.
+
+
+<strong>[3]</strong> Tafti, A.P., 2016. [3D SEM Surface Reconstruction: An Optimized, Adaptive, and Intelligent Approach](http://dc.uwm.edu/etd/1186/). (Doctoral dissertation, The University of Wisconsin-Milwaukee).
 
 
 <strong>[3]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
+
+</p>
+
+## 3D SEM Surface Reconstruction Applications
+
+<p align="justify"> 
+Application of 3D SEM surface reconstruction broadly lies in different scietific domains. The following works are good resource to imvestigate the application area of 3D SEM vision:
+
+
+
 
 
 
