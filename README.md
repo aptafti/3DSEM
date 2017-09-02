@@ -10,9 +10,9 @@ Making a 3D shape model of a microscopic sample is still difficult to solve sinc
 ## State of the Art
 <p align="justify"> 
 The state-of-the-art of 3D SEM surface reconstruction is fully explained in the following works:
-
+<p align="justify"> 
 <strong>[1]</strong> Tafti, A.P., Kirkpatrick, A.B., Alavi, Z., Owen, H.A. and Yu, Z., 2015. [Recent advances in 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432815300226) Micron, 78, pp.54-66.
-
+</p>
 <strong>[2]</strong> Kremer, A., Lippens, S., Bartunkova, S., Asselbergh, B., Blanpain, C., Fendrych, M., Goossens, A., Holt, M., Janssens, S., Krols, M. and LARSIMONT, J.C., 2015. [Developing 3D SEM in a broad biological context](http://onlinelibrary.wiley.com/doi/10.1111/jmi.12211/full) Journal of microscopy, 259(2), pp.80-96.
 </p>
 
