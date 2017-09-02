@@ -68,15 +68,23 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 [YouTube](https://www.youtube.com/watch?time_continue=3&v=9KR0pQS7m28)
 
 ## Collaborators
-[Ahmad P. Tafti, PhD](http://aptafti.com)
+[Ahmad P. Tafti](http://aptafti.com), PhD
+<br> 
 [Mona Eulitz, PhD](https://www.uni-wh.de/detailseiten/kontakte/mona-eulitz-2104/f0/nc/)
+<br> 
 [Zahrasadat Alavi, PhD](https://scholar.google.com/citations?user=rKBy0xoAAAAJ&hl=en)
+<br> 
 [Emad Omrani, PhD](https://scholar.google.com/citations?user=FtzMHBMAAAAJ&hl=en)
+<br> 
 [Mojtaba Fathi, MS](https://www.linkedin.com/in/mojif)
+<br> 
 [Afsaneh Dorri Moghadam, PhD](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en)
+<br> 
 [Andrew B. Kirkpatrick, MS](https://molgen.osu.edu/people/kirkpatrick.173)
+<br> 
 [Heather Owen, PhD](http://uwm.edu/biology/people/heather-owen/)
-[Zeyun Yu, PhD](http://uwm.edu/engineering/people/yu-ph-d-zeyun/)
+<br> 
+[Zeyun Yu](http://uwm.edu/engineering/people/yu-ph-d-zeyun/), PhD
 
 
 
