@@ -28,7 +28,7 @@ There is a considerable amount of research activities that tried to design and d
 <strong>[3]</strong> Tafti, A.P., 2016. [3D SEM Surface Reconstruction: An Optimized, Adaptive, and Intelligent Approach](http://dc.uwm.edu/etd/1186/). (Doctoral dissertation, The University of Wisconsin-Milwaukee).
 
 
-<strong>[3]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
+<strong>[4]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
 
 </p>
 
@@ -37,8 +37,16 @@ There is a considerable amount of research activities that tried to design and d
 <p align="justify"> 
 Application of 3D SEM surface reconstruction broadly lies in different scietific domains. The following works are good resource to imvestigate the application area of 3D SEM vision:
 
+<strong>[1]</strong> Limandri, S., Josa, V.G., Valentinuzzi, M.C., Chena, M.E. and Castellano, G., 2016. [3D scanning electron microscopy applied to surface characterization of fluorosed dental enamel](http://www.sciencedirect.com/science/article/pii/S0968432816300105). Micron, 84, pp.54-60.
+
+<strong>[2]</strong> Eulitz, M. and Reiss, G., 2015. [3D reconstruction of SEM images by use of optical photogrammetry software](http://www.sciencedirect.com/science/article/pii/S1047847715300149). Journal of structural biology, 191(2), pp.190-196.
+
+<strong>[3]</strong> Omrani, E., Tafti, A.P., Fathi, M.F., Moghadam, A.D., Rohatgi, P., D'Souza, R.M. and Yu, Z., 2016. [Tribological study in microscale using 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0301679X16302183). Tribology International, 103, pp.309-315.
+
+<strong>[4]</strong> Kim, K.W., 2016.  [Biomedical Applications of Stereoscopy for Three-Dimensional Surface Reconstruction in Scanning Electron Microscopes](https://www.e-sciencecentral.org/articles/SC000016103). Applied Microscopy, 46(2), pp.71-75.
 
 
+ 
 
 
 
