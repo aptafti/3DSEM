@@ -7,6 +7,12 @@ Structural analysis of microscopic objects has been a longstanding topic in seve
 Making a 3D shape model of a microscopic sample is still difficult to solve since its 3D shape model in the real world is only projected into and available as only 2D digital images. Over the past few years, there has been an expansion in designing and developing 3D surface reconstruction algorithms for images obtained by a SEM. All these algorithms are categorized into three main classes: 1) Single-View, 2) Multi-View and 3) Hybrid <strong>[1, 2]</strong>, all with use of either sparse or dense reconstruction strategies. 
 </p>
 
+## State of the Art
+<p align="justify"> 
+The state-of-the-art of 3D SEM surface reconstruction is fully explained in the following works:
+
+<strong>[1]</strong> Tafti, A.P., Kirkpatrick, A.B., Alavi, Z., Owen, H.A. and Yu, Z., 2015. [Recent advances in 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432815300226) Micron, 78, pp.54-66.
+
 ## Techniques and Algorithms
 There is a considerable amount of research activities that tried to design and develop 3D SEM surface reconstruction algorithms. Examples include:
 
@@ -15,7 +21,7 @@ There is a considerable amount of research activities that tried to design and d
 <strong>[2]</strong> Tafti, A.P., 2016. [3D SEM Surface Reconstruction: An Optimized, Adaptive, and Intelligent Approach](http://dc.uwm.edu/etd/1186/) (Doctoral dissertation, The University of Wisconsin-Milwaukee).
 
 
-<strong>[3]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces) Micron, 99, pp.26-31.
+<strong>[3]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
 
 
 
