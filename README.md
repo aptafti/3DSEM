@@ -82,7 +82,7 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 <br> 
 [Afsaneh Dorri Moghadam](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en), PhD
 <br> 
-[Andrew B. Kirkpatrick(https://molgen.osu.edu/people/kirkpatrick.173), MS
+[Andrew B. Kirkpatrick](https://molgen.osu.edu/people/kirkpatrick.173), MS
 <br> 
 [Heather Owen](http://uwm.edu/biology/people/heather-owen/), PhD
 <br> 
