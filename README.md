@@ -70,19 +70,21 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 ## Collaborators
 [Ahmad P. Tafti](http://aptafti.com), PhD
 <br> 
-[Mona Eulitz, PhD](https://www.uni-wh.de/detailseiten/kontakte/mona-eulitz-2104/f0/nc/)
+[Mona Eulitz](https://www.uni-wh.de/detailseiten/kontakte/mona-eulitz-2104/f0/nc/), PhD
 <br> 
-[Zahrasadat Alavi, PhD](https://scholar.google.com/citations?user=rKBy0xoAAAAJ&hl=en)
+[Zahrasadat Alavi](https://scholar.google.com/citations?user=rKBy0xoAAAAJ&hl=en), PhD
 <br> 
-[Emad Omrani, PhD](https://scholar.google.com/citations?user=FtzMHBMAAAAJ&hl=en)
+[Mehdi Assefi](https://scholar.google.com/citations?user=_CByOyoAAAAJ&hl=en), MS
 <br> 
-[Mojtaba Fathi, MS](https://www.linkedin.com/in/mojif)
+[Emad Omrani](https://scholar.google.com/citations?user=FtzMHBMAAAAJ&hl=en), PhD
 <br> 
-[Afsaneh Dorri Moghadam, PhD](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en)
+[Mojtaba Fathi](https://www.linkedin.com/in/mojif), MS
 <br> 
-[Andrew B. Kirkpatrick, MS](https://molgen.osu.edu/people/kirkpatrick.173)
+[Afsaneh Dorri Moghadam](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en), PhD
 <br> 
-[Heather Owen, PhD](http://uwm.edu/biology/people/heather-owen/)
+[Andrew B. Kirkpatrick(https://molgen.osu.edu/people/kirkpatrick.173), MS
+<br> 
+[Heather Owen](http://uwm.edu/biology/people/heather-owen/), PhD
 <br> 
 [Zeyun Yu](http://uwm.edu/engineering/people/yu-ph-d-zeyun/), PhD
 
