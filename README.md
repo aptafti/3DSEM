@@ -67,6 +67,18 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 <strong> 3D Microscopy Vision </strong>
 [YouTube](https://www.youtube.com/watch?time_continue=3&v=9KR0pQS7m28)
 
+## Collaborators
+[Ahmad P. Tafti, PhD](http://aptafti.com)
+[Mona Eulitz, PhD](https://www.uni-wh.de/detailseiten/kontakte/mona-eulitz-2104/f0/nc/)
+[Zahrasadat Alavi, PhD](https://scholar.google.com/citations?user=rKBy0xoAAAAJ&hl=en)
+[Emad Omrani, PhD](https://scholar.google.com/citations?user=FtzMHBMAAAAJ&hl=en)
+[Mojtaba Fathi, MS](https://www.linkedin.com/in/mojif)
+[Afsaneh Dorri Moghadam, PhD](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en)
+[Andrew B. Kirkpatrick, MS](https://molgen.osu.edu/people/kirkpatrick.173)
+[Heather Owen, PhD](http://uwm.edu/biology/people/heather-owen/)
+[Zeyun Yu, PhD](http://uwm.edu/engineering/people/yu-ph-d-zeyun/)
+
+
 
 ## References
 
