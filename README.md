@@ -52,12 +52,20 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 <strong>[4]</strong> Kim, K.W., 2016.  [Biomedical Applications of Stereoscopy for Three-Dimensional Surface Reconstruction in Scanning Electron Microscopes](https://www.e-sciencecentral.org/articles/SC000016103). Applied Microscopy, 46(2), pp.71-75.
 
 
+## Dataset
+
+<strong> 3DSEM </strong>
+[selibcv.org](http://selibcv.org/3dsem/)
+[Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVBW0Q)
+
+
 ## Video Demonstration
 
 <strong> Multiple-View Geometry </strong>
 [YouTube](https://www.youtube.com/watch?v=RDkwklFGMfo)
  
-
+<strong> 3D Microscopy Vision </strong>
+[YouTube](https://www.youtube.com/watch?time_continue=3&v=9KR0pQS7m28)
 
 
 ## References
