@@ -27,8 +27,14 @@ There is a considerable amount of research activities that tried to design and d
 
 <strong>[3]</strong> Tafti, A.P., 2016. [3D SEM Surface Reconstruction: An Optimized, Adaptive, and Intelligent Approach](http://dc.uwm.edu/etd/1186/). (Doctoral dissertation, The University of Wisconsin-Milwaukee).
 
+<strong>[4]</strong> Kudryavtsev, A.V., Dembélé, S. and Piat, N., 2017. [Stereo-image rectification for dense 3D reconstruction in scanning electron microscope](http://ieeexplore.ieee.org/abstract/document/8001905/). In Manipulation, Automation and Robotics at Small Scales (MARSS), 2017 International Conference on (pp. 1-6). IEEE.
 
-<strong>[4]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
+
+<strong>[5]</strong> Yan, S., Adegbule, A. and Kibbey, T.C., 2017. [A hybrid 3D SEM reconstruction method optimized for complex geologic material surfaces](http://www.sciencedirect.com/science/article/pii/S0968432817300781) Micron, 99, pp.26-31.
+
+<strong>[6]</strong> Tafti, A.P., Holz, J.D., Baghaie, A., Owen, H.A., He, M.M. and Yu, Z., 2016. [3DSEM++: Adaptive and intelligent 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432816300750). Micron, 87, pp.33-45.
+
+<strong>[7]</strong> Baghaie, A., Tafti, A.P., Owen, H.A., D'Souza, R.M. and Yu, Z., 2017. [SD-SEM: sparse-dense correspondence for 3D reconstruction of microscopic samples](http://www.sciencedirect.com/science/article/pii/S0968432816302268). Micron, 97, pp.41-55.
 
 </p>
 
