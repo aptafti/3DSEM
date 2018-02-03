@@ -68,7 +68,7 @@ Click on the picture below to start YouTube video demonstrations.
 
 <strong> Multiple-View Geometry </strong>
 
-[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/multiviewgeometry.png)](https://youtu.be/RDkwklFGMfo)
+[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/multiviewgeomtry.png)](https://youtu.be/RDkwklFGMfo)
  
 
 ## Collaborators
