@@ -61,7 +61,7 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 
 ## Video Demonstration
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/rCCVJ0slY8o)
+[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/3dsem.png)](https://youtu.be/rCCVJ0slY8o)
 
 <strong> Multiple-View Geometry </strong>
 [YouTube](https://www.youtube.com/watch?v=RDkwklFGMfo)
