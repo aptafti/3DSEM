@@ -60,13 +60,17 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 
 
 ## Video Demonstration
+Click on the picture below to start YouTube video demonstrations. 
 
+<strong> 3D Surface Modeling of Microscopic Objects: a Computer Vision Adventure </strong>
 [![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/3dsem.png)](https://youtu.be/rCCVJ0slY8o)
 
 <strong> Multiple-View Geometry </strong>
-[YouTube](https://www.youtube.com/watch?v=RDkwklFGMfo)
+[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/3dsem.png)](https://youtu.be/rCCVJ0slY8o)
  
-<strong> 3D Microscopy Vision </strong>
+
+[![Alt text for your video](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
+
 [YouTube](https://www.youtube.com/watch?time_continue=3&v=9KR0pQS7m28)
 
 ## Collaborators
