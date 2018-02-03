@@ -54,12 +54,14 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 
 ## Dataset
 
-[SeLibCV](http://selibcv.org/3dsem/)
+3DSEM: [SeLibCV](http://selibcv.org/3dsem/)
 <br> 
-[Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVBW0Q)
+3DSEM: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVBW0Q)
 
 
 ## Video Demonstration
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 <strong> Multiple-View Geometry </strong>
 [YouTube](https://www.youtube.com/watch?v=RDkwklFGMfo)
