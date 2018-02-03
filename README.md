@@ -38,6 +38,18 @@ There is a considerable amount of research activities that tried to design and d
 
 </p>
 
+## Video Demonstration
+Click on the picture below to start YouTube video demonstrations. 
+
+<strong> 3D Surface Modeling of Microscopic Objects: a Computer Vision Adventure </strong>
+
+[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/3dsem.png)](https://youtu.be/rCCVJ0slY8o)
+
+<strong> Multiple-View Geometry </strong>
+
+[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/multiviewgeomtry.png)](https://youtu.be/RDkwklFGMfo)
+ 
+
 ## 3D SEM Surface Reconstruction Applications
 
 <p align="justify"> 
@@ -59,17 +71,8 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 3DSEM: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVBW0Q)
 
 
-## Video Demonstration
-Click on the picture below to start YouTube video demonstrations. 
 
-<strong> 3D Surface Modeling of Microscopic Objects: a Computer Vision Adventure </strong>
 
-[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/3dsem.png)](https://youtu.be/rCCVJ0slY8o)
-
-<strong> Multiple-View Geometry </strong>
-
-[![Watch the video](https://github.com/ahmadpahlavantafti/3DSEM/blob/master/multiviewgeomtry.png)](https://youtu.be/RDkwklFGMfo)
- 
 
 ## Collaborators
 [Ahmad P. Tafti](http://aptafti.com), PhD
