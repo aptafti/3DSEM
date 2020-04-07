@@ -76,6 +76,12 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 </strong> Tafti AP, Kirkpatrick AB, Holz JD, Owen HA, Yu Z, 2016.  [3DSEM: A 3D microscopy dataset](https://www.sciencedirect.com/science/article/pii/S2352340915003133). Data in Brief. 2016 Mar 1;6:112-6.
 
 
+## Commercial Software Packages 
+
+<strong>MeX (Alicona)</strong>: [Mex](https://www.alicona.com/en-uk/products/mex/)
+
+
+
 ## Collaborators
 [Ahmad P. Tafti](https://aptafti.github.io), PhD
 <br> 
