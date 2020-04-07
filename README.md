@@ -43,7 +43,7 @@ There is a considerable amount of research activities that tried to design and d
 </p>
 
 ## Video Demonstration
-Click on the picture below to start YouTube video demonstrations. 
+Click on the pictures below to start <strong>YouTube</strong> video demonstrations. 
 
 <strong> 3D Surface Modeling of Microscopic Objects: a Computer Vision Adventure </strong>
 
