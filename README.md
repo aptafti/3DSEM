@@ -85,7 +85,7 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 <br> 
 [Emad Omrani](https://scholar.google.com/citations?user=FtzMHBMAAAAJ&hl=en), PhD
 <br> 
-[Mojtaba Fathi](https://www.linkedin.com/in/mojif), MS
+[Mojtaba Fathi](https://www.linkedin.com/in/mojif), PhD
 <br> 
 [Afsaneh Dorri Moghadam](https://scholar.google.com/citations?user=PoGj6G4AAAAJ&hl=en), PhD
 <br> 
