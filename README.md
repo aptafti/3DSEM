@@ -80,6 +80,8 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 
 <strong>MeX (Alicona)</strong>: [Mex](https://www.alicona.com/en-uk/products/mex/)
 
+<strong>Avizo Software</strong>: [Avizo](https://www.thermofisher.com/us/en/home/industrial/electron-microscopy/electron-microscopy-instruments-workflow-solutions/3d-visualization-analysis-software.html)
+
 
 
 ## Collaborators
