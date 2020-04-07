@@ -16,8 +16,6 @@ The state-of-the-art of 3D SEM surface reconstruction is fully explained in the 
 <strong>[2]</strong> Kremer, A., Lippens, S., Bartunkova, S., Asselbergh, B., Blanpain, C., Fendrych, M., Goossens, A., Holt, M., Janssens, S., Krols, M. and LARSIMONT, J.C., 2015. [Developing 3D SEM in a broad biological context](http://onlinelibrary.wiley.com/doi/10.1111/jmi.12211/full) Journal of microscopy, 259(2), pp.80-96.
 
 <strong>[3]</strong> Baghaie A, Tafti AP, Owen HA, D’Souza RM, Yu Z., 2017. [Three-dimensional reconstruction of highly complex microscopic samples using scanning electron microscopy and optical flow estimation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175078) PloS one. 2017;12(4).
-
-
 </p>
 
 ## Techniques and Algorithms
@@ -39,6 +37,8 @@ There is a considerable amount of research activities that tried to design and d
 <strong>[6]</strong> Tafti, A.P., Holz, J.D., Baghaie, A., Owen, H.A., He, M.M. and Yu, Z., 2016. [3DSEM++: Adaptive and intelligent 3D SEM surface reconstruction](http://www.sciencedirect.com/science/article/pii/S0968432816300750). Micron, 87, pp.33-45.
 
 <strong>[7]</strong> Baghaie, A., Tafti, A.P., Owen, H.A., D'Souza, R.M. and Yu, Z., 2017. [SD-SEM: sparse-dense correspondence for 3D reconstruction of microscopic samples](http://www.sciencedirect.com/science/article/pii/S0968432816302268). Micron, 97, pp.41-55.
+
+<strong>[8]</strong> Baghaie A, Tafti AP, Owen HA, D’Souza RM, Yu Z., 2017. [Three-dimensional reconstruction of highly complex microscopic samples using scanning electron microscopy and optical flow estimation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0175078) PloS one. 2017;12(4).
 
 </p>
 
