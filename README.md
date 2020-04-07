@@ -73,7 +73,7 @@ Application of 3D SEM surface reconstruction broadly lies in different scietific
 <strong>3DSEM Dataset</strong>: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVBW0Q)
 
 <strong>Paper</strong>: 
-</strong> Tafti AP, Kirkpatrick AB, Holz JD, Owen HA, Yu Z, 2016.  [B3DSEM: A 3D microscopy dataset](https://www.sciencedirect.com/science/article/pii/S2352340915003133). Applied Microscopy, 46(2), pp.71-75.
+</strong> Tafti AP, Kirkpatrick AB, Holz JD, Owen HA, Yu Z, 2016.  [3DSEM: A 3D microscopy dataset](https://www.sciencedirect.com/science/article/pii/S2352340915003133). Data in Brief. 2016 Mar 1;6:112-6.
 
 
 ## Collaborators
